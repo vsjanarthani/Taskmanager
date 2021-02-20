@@ -8,8 +8,8 @@ Please find the website deployed here - [(https://vsjanarthani.github.io/Taskman
 * CSS
 * JavaScript
 ## Screenshot of the Webpage
-![webpageview](./assets/image/screenshot1.png)
+![webpageview] (./assets/image/screenshot1.png)
 
-![webpageview](./assets/image/screenshot2.png)
+![webpageview] (./assets/image/screenshot2.png)
 ## Contribution
 Made with :heart: by **Janarthani V Subramaniam**
