@@ -7,9 +7,9 @@ Please find the website deployed here - [(https:/)]
 * HTML
 * CSS
 * JavaScript
-## Screenshot of the Deployed Webpage
-![code]()
+## Screenshot of the Webpage
+![webpageview](./assets/image/screenshot1.png)
 
-![code]()
+![webpageview](./assets/image/screenshot2.png)
 ## Contribution
 Made with :heart: by **Janarthani V Subramaniam**
